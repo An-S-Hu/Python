@@ -17,3 +17,10 @@
 # print(f"The area of the circle with radius {radius} is {area}")
 
 
+#swap two numbers
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))   
+temp = a
+a = b
+b = temp
+print(f"After swapping: a = {a}, b = {b}")
