@@ -27,11 +27,42 @@
 
 
 #Check if a number is positive, negative, or zero
-num = float(input("Enter a number: "))
-if num > 0:
-    print("The number is positive.")
-elif num < 0:
-    print("The number is negative.")
-else:
-    print("The number is zero.")
+# num = float(input("Enter a number: "))
+# if num > 0:
+#     print("The number is positive.")
+# elif num < 0:
+#     print("The number is negative.")
+# else:
+#     print("The number is zero.")
+
+
+#Check if a number is even or odd
+# number = int(input("Enter a number: "))
+
+# if number % 2 == 0:
+#     print("The number is even.")
+# else:
+#     print("The number is odd.")
     
+
+# Find the largest of three numbers
+# Input three numbers
+# a = float(input("Enter first number: "))
+# b = float(input("Enter second number: "))
+# c = float(input("Enter third number: "))
+
+# # Compare and find the largest
+# if a >= b and a >= c:
+#     print("The largest number is", a)
+# elif b >= a and b >= c:
+#     print("The largest number is", b)
+# else:
+#     print("The largest number is", c)
+    
+    
+# Print all even numbers from 1 to 100
+# for num in range(1, 101):
+#     if num % 2 == 0:
+#         print(num)
+
+
