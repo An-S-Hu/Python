@@ -66,3 +66,15 @@
 #         print(num)
 
 
+# import pyjokes
+
+ # Get a random joke
+# print(pyjokes.get_joke())
+
+import pyttsx3
+
+# Initialize the text-to-speech engine
+engine = pyttsx3.init()
+# Speak a custom message
+engine.say("Hello Sumit bhai ki karaichi tung tung tung tung tung tung tung tung tung tung tung tung tung tung tung tung tung haha haha haha haha haha hahah haha haha hahah ki rai bauwa bhat kheli")
+engine.runAndWait()

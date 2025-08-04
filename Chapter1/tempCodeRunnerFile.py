@@ -1,0 +1,1 @@
+b = float(a)  # Convert string to float
