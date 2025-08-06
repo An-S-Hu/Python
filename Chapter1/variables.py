@@ -42,3 +42,12 @@
 # b = float(a)  # Convert string to float
 # t = type(a)
 # print(t)  # Output: <class 'str'>
+
+# a = input("Enter the first number:")  #this shows how to take a input from the user
+# b = input("Enter the second number:")
+# print("The Number a is:", a)
+# print("The Number b is:", b)
+# print("The sum of a and b is :", int(a)+int(b))
+
+# a = "anshu" + "gupta" # Concatenating two strings
+# print(a)
